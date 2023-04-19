@@ -7,9 +7,10 @@
 * Twitter: https://twitter.com/Untree_co
 * Facebook: https://web.facebook.com/Untree.co/
 */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
 @import url("https://fonts.googleapis.com/css?family=Arimo:400|Raleway:300,400,700&display=swap");
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "oswald", sans-serif;
   color: #495057;
   font-size: 16px;
   line-height: 30px;
